@@ -48,12 +48,12 @@ subs {
 
         from(get("premux")) {
             video {
-				trackOrder(0)
+                trackOrder(0)
             }
             audio {
                 trackOrder(2)
             }
-			attachments { include(false) }
+            attachments { include(false) }
             subtitles { include(false) }
         }
 
