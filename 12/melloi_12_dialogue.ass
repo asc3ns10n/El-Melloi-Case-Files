@@ -18,9 +18,9 @@ Keyframes File: melloi_12_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 362
-Active Line: 369
-Video Position: 33698
+Scroll Position: 360
+Active Line: 364
+Video Position: 33609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -392,10 +392,14 @@ Dialogue: 0,0:23:06.11,0:23:09.24,Default,,0,0,0,,Grave for you.
 Dialogue: 0,0:23:09.49,0:23:11.07,Default,,0,0,0,,Old Mystics.
 Dialogue: 0,0:23:11.07,0:23:13.91,Default,,0,0,0,,Exterminate sweet mysteries!
 Dialogue: 0,0:23:14.29,0:23:16.20,Default,,0,0,0,,All will return to the void!
-Dialogue: 0,0:23:17.58,0:23:20.58,Default,,0,0,0,,Now, race forth... Hecatic Wheel!
+Dialogue: 0,0:23:17.58,0:23:18.90,Default,,0,0,0,,Now, race forth.
+Dialogue: 0,0:23:18.90,0:23:20.58,Default,,0,0,0,,Hecatic Wheel!
 Dialogue: 0,0:23:22.00,0:23:23.09,Default,,0,0,0,,Sacred lance,
 Dialogue: 0,0:23:23.59,0:23:24.71,Default,,0,0,0,,removing restraints!
 Dialogue: 0,0:23:25.46,0:23:28.47,Default,,0,0,0,,Rhongomyniad!
+Dialogue: 0,0:23:18.90,0:23:20.58,NP,,0,0,0,,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4c&H2817FE&\4a&H64&\bord6\blur10}Wheel of Demonic Heaven
+Dialogue: 1,0:23:18.90,0:23:20.58,NP,,0,0,0,,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4a&H2E&\blur1}Wheel of Demonic Heaven
+Dialogue: 2,0:23:18.90,0:23:20.58,NP,,0,0,0,,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4a&H2E&\blur1}Wheel of Demonic Heaven
 Dialogue: 0,0:23:25.47,0:23:28.47,NP,,0,0,0,,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4c&H00D7FF&\4a&H64&\bord6\blur10}The Lance that Shines to the End of the World
 Dialogue: 1,0:23:25.47,0:23:28.47,NP,,0,0,0,,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4a&H2E&\blur1}The Lance that Shines to the End of the World
 Dialogue: 2,0:23:25.47,0:23:28.47,NP,,0,0,0,,{\an5\pos(960.00,920.40)\b100\1a&HFE&\3a&HFE&\4a&H00&\xshad0.01\4a&H2E&\blur1}The Lance that Shines to the End of the World
